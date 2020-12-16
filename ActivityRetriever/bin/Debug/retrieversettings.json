@@ -1,0 +1,10 @@
+{
+  "Login": {
+    "Url": "https://crm995023.crm.dynamics.com",
+    "Username": "admin@CRM995023.onmicrosoft.com",
+    "Password": "KQG3307rrC"
+  },
+  "CrmInfo": {
+    "AtcIdFieldOnAccount": "new_atcaccountnumber"
+  }
+}

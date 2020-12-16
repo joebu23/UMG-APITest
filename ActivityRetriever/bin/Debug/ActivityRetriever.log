@@ -1,0 +1,240 @@
+2020-08-11 10:32:46,276 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-11 10:32:48,577 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-11 10:32:48,579 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-11 10:32:48,689 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-11 10:32:48,793 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 12:00:00 AM
+2020-08-11 10:33:11,088 [4] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 8/7/2020 12:00:00 AM
+2020-08-11 10:45:33,405 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-11 10:45:36,337 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-11 10:45:36,345 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-11 10:45:36,860 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-11 10:45:36,959 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 12:00:00 AM
+2020-08-11 10:46:42,149 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-11 10:46:44,939 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-11 10:46:44,946 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-11 10:46:45,054 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-11 10:46:45,155 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 12:00:00 AM
+2020-08-11 10:46:58,949 [4] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 8/7/2020 12:00:00 AM
+2020-08-18 09:02:36,252 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 09:02:41,415 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 09:02:41,425 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 09:02:41,656 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 09:02:41,763 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 12:00:00 AM
+2020-08-18 09:27:29,055 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 09:27:31,549 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 09:27:31,555 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 09:27:40,419 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 09:47:48,121 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 09:47:50,739 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 09:47:50,744 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 09:47:50,869 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 09:51:10,525 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 09:51:13,160 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 09:51:13,165 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 09:51:13,263 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 09:52:25,809 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 09:52:28,247 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 09:52:28,254 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 09:52:28,350 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 09:52:34,543 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 12:00:00 AM
+2020-08-18 09:52:47,052 [3] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 8/7/2020 12:00:00 AM
+2020-08-18 09:55:31,759 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 09:55:34,511 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 09:55:34,518 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 09:55:34,607 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 09:55:34,717 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 4:00:00 AM
+2020-08-18 09:55:57,294 [3] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 8/14/2020 4:00:00 AM
+2020-08-18 10:16:07,638 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:16:10,328 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:16:10,335 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:16:10,434 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:16:10,536 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 4:00:00 AM
+2020-08-18 10:22:35,005 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:22:37,324 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:22:37,330 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:22:37,460 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:22:37,568 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 4:00:00 AM
+2020-08-18 10:22:39,032 [3] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 8/14/2020 4:00:00 AM
+2020-08-18 10:23:41,832 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:23:44,247 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:23:44,256 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:23:44,358 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:23:44,460 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 4:00:00 AM
+2020-08-18 10:26:08,068 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:26:10,855 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:26:10,860 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:26:10,975 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:26:11,083 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 4:00:00 AM
+2020-08-18 10:28:51,561 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:28:54,321 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:28:54,329 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:28:54,531 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:28:54,644 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 4:00:00 AM
+2020-08-18 10:30:20,824 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:30:23,068 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:30:23,073 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:30:23,174 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:30:23,281 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 4:00:00 AM
+2020-08-18 10:32:41,178 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:32:44,087 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:32:44,102 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:32:44,212 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:32:44,326 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 4:00:00 AM
+2020-08-18 10:32:45,284 [4] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 8/14/2020 4:00:00 AM
+2020-08-18 10:38:25,313 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:38:27,637 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:38:27,643 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:38:27,739 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:38:38,188 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 4:00:00 AM
+2020-08-18 10:39:15,181 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:39:17,401 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:39:17,409 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:39:17,521 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:39:17,632 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 4:00:00 AM
+2020-08-18 10:40:49,479 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:40:52,160 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:40:52,168 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:40:52,271 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:40:52,399 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 8/7/2020 4:00:00 AM
+2020-08-18 10:40:53,421 [3] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 8/14/2020 4:00:00 AM
+2020-08-18 10:41:49,248 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:41:52,119 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:41:52,128 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:41:52,230 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:41:52,343 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 1/1/0001 12:00:00 AM
+2020-08-18 10:42:50,708 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:42:52,867 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:42:52,877 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:42:52,967 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:42:53,066 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 1/1/0001 12:00:00 AM
+2020-08-18 10:43:44,538 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:43:46,716 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:43:46,722 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:43:46,824 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:45:20,796 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:45:23,324 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:45:23,332 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:45:23,436 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:45:23,554 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 1/1/0001 12:00:00 AM
+2020-08-18 10:45:24,200 [3] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 1/1/0001 12:00:00 AM
+2020-08-18 10:52:27,358 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:52:30,074 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:52:30,081 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:52:30,188 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:52:30,289 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 10:52:32,133 [3] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 7/25/2020 4:00:00 AM
+2020-08-18 10:53:25,735 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:53:28,073 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:53:28,078 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:53:28,185 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:53:28,297 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 10:53:42,345 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:53:44,683 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:53:44,692 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:53:44,804 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:53:44,906 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 10:56:53,517 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:56:56,288 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:56:56,298 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:56:56,414 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:56:56,521 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 10:57:09,738 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:57:12,429 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:57:12,441 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:57:12,547 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:57:12,654 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 10:57:24,472 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:57:26,989 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:57:26,998 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:57:27,113 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:57:27,221 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 10:57:28,141 [3] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 7/25/2020 4:00:00 AM
+2020-08-18 10:58:11,778 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:58:14,715 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:58:14,720 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:58:14,823 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:58:14,927 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 10:58:35,745 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:58:38,409 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:58:38,416 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:58:38,522 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:58:38,623 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 10:59:02,095 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:59:04,958 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:59:04,966 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:59:05,076 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:59:05,179 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 10:59:20,960 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 10:59:24,052 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 10:59:24,069 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 10:59:24,178 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 10:59:24,282 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 11:04:06,221 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 11:04:09,904 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 11:04:09,916 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 11:04:10,043 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 11:04:10,152 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 11:18:08,354 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 11:18:11,077 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 11:18:11,085 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 11:18:11,196 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 11:18:11,301 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 11:19:19,335 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 11:19:21,825 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 11:19:21,831 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 11:19:21,927 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 11:19:22,030 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 11:21:50,584 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 11:21:53,644 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 11:21:53,650 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 11:21:53,769 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 11:21:53,877 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 11:21:54,700 [3] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 7/25/2020 4:00:00 AM
+2020-08-18 11:23:41,938 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 11:23:44,228 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 11:23:44,238 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 11:23:44,346 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 11:23:44,457 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 11:24:40,227 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 11:24:42,499 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 11:24:42,506 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 11:24:42,618 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 11:24:42,730 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 11:24:43,644 [3] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 7/25/2020 4:00:00 AM
+2020-08-18 11:26:45,810 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 11:26:48,487 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 11:26:48,492 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: Adventure Works (sample), ATC Number: 12345asdf
+2020-08-18 11:26:48,602 [1] INFO ActivityRetriever.Program - Looking for new ATC activities for account: A. Datum Corporation (sample), ATC Number: 12345
+2020-08-18 11:26:48,710 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 11:26:50,200 [3] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 7/25/2020 4:00:00 AM
+2020-08-18 14:43:43,730 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 14:54:38,309 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 15:01:16,011 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 15:01:27,851 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 15:24:54,743 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 15:24:57,452 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 15:24:57,458 [1] INFO ActivityRetriever.Program - Looking for saved ATC activities for account: Adventure Works (sample), ATC account Number: 12345asdf
+2020-08-18 15:24:57,837 [1] INFO ActivityRetriever.Program - Looking for saved ATC activities for account: A. Datum Corporation (sample), ATC account Number: 12345
+2020-08-18 15:25:07,647 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345asdf starting on 7/4/2020 4:00:00 AM
+2020-08-18 15:25:08,232 [3] INFO ActivityRetriever.Program - Found 2 activities for Adventure Works (sample)
+2020-08-18 15:25:08,238 [3] INFO ActivityRetriever.Program - Creating new activity for account: 0a541b34-8ed3-ea11-a812-000d3a9c7440 from: 6/20/2020 12:00:00 AM
+2020-08-18 15:25:09,815 [3] INFO ActivityRetriever.Program - Creating new activity for account: 0a541b34-8ed3-ea11-a812-000d3a9c7440 from: 7/4/2020 12:00:00 AM
+2020-08-18 15:25:22,017 [3] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 7/25/2020 4:00:00 AM
+2020-08-18 15:25:22,428 [15] INFO ActivityRetriever.Program - Found 2 activities for A. Datum Corporation (sample)
+2020-08-18 15:25:22,440 [15] INFO ActivityRetriever.Program - Creating new activity for account: 16541b34-8ed3-ea11-a812-000d3a9c7440 from: 7/15/2020 12:00:00 AM
+2020-08-18 15:25:22,713 [15] INFO ActivityRetriever.Program - Creating new activity for account: 16541b34-8ed3-ea11-a812-000d3a9c7440 from: 7/25/2020 12:00:00 AM
+2020-08-18 15:25:36,307 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 15:25:39,089 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 15:25:39,095 [1] INFO ActivityRetriever.Program - Looking for saved ATC activities for account: Adventure Works (sample), ATC account Number: 12345asdf
+2020-08-18 15:25:39,212 [1] INFO ActivityRetriever.Program - Looking for saved ATC activities for account: A. Datum Corporation (sample), ATC account Number: 12345
+2020-08-18 15:27:18,385 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 15:27:37,121 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 15:27:53,949 [1] INFO ActivityRetriever.Program - Looking for saved ATC activities for account: A. Datum Corporation (sample), ATC account Number: 12345
+2020-08-18 15:28:47,134 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 15:28:49,433 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 15:28:49,443 [1] INFO ActivityRetriever.Program - Looking for saved ATC activities for account: A. Datum Corporation (sample), ATC account Number: 12345
+2020-08-18 15:30:54,999 [1] INFO ActivityRetriever.Program - Connecting with https://crm995023.crm.dynamics.com and username admin@CRM995023.onmicrosoft.com
+2020-08-18 15:30:57,448 [1] INFO ActivityRetriever.Program - Found -1 accounts that could be updated
+2020-08-18 15:30:57,456 [1] INFO ActivityRetriever.Program - Looking for saved ATC activities for account: A. Datum Corporation (sample), ATC account Number: 12345
+2020-08-18 15:30:57,572 [1] INFO ActivityRetriever.Program - Getting ATC Activities for: 12345 starting on 7/25/2020 4:00:00 AM
+2020-08-18 15:30:57,786 [4] INFO ActivityRetriever.Program - Found 2 activities for A. Datum Corporation (sample)
